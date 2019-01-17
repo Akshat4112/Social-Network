@@ -1,3 +1,3 @@
 ## Social-Network in Core PHP
 
-### This is Social Networking Site developed i 2016.
+### This is Social Networking Platform developed in 2016.
